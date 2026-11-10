@@ -1,0 +1,14 @@
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+
+# Build files
+bin/
+obj/
+
+# Windows files
+desktop.ini
+Thumbs.db
